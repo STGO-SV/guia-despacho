@@ -94,3 +94,5 @@ Secrets requeridos:
 - `EC2_SSH_KEY`
 - `AWS_REGION`
 - `AWS_S3_BUCKET`
+
+Prueba de despliegue automatizado mediante GitHub Actions, Docker Hub y EC2.
